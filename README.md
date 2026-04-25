@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Tanisha Gotadke
 
 <!--
 **tan-codes22/tan-codes22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
