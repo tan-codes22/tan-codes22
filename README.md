@@ -24,7 +24,7 @@ I like building things that turn messy real-world problems into useful systems, 
 
 - LinkedIn: [tanisha-gotadke](https://in.linkedin.com/in/tanisha-gotadke)
 - Email: tgotadke@gmail.com
-- Instagram:[tanisha_gotadke https://www.instagram.com/tanisha_gotadke?igsh=MWc1OHJlcnZydzEyag%3D%3D&utm_source=qr
+- Instagram:[tanisha_gotadke] (https://www.instagram.com/tanisha_gotadke?igsh=MWc1OHJlcnZydzEyag%3D%3D&utm_source=qr)
 ---
 
 <sub>Always happy to chat about AI, chess, software engineering, or interesting problems.</sub>
