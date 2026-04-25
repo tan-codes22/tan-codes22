@@ -1,4 +1,4 @@
-<img width="560" height="126" alt="image" src="https://github.com/user-attachments/assets/990e8508-5843-4c9a-9d76-b46307fe3353" /># Hi, I'm Tanisha👋
+>Hi, I'm Tanisha👋
 
 Software engineer working in AI, with a CS background from BMS College of Engineering, Bangalore.
 
