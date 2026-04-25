@@ -1,4 +1,4 @@
->Hi, I'm Tanisha👋
+# Hi, I'm Tanisha
 
 Software engineer working in AI, with a CS background from BMS College of Engineering, Bangalore.
 
